@@ -25,7 +25,7 @@ class Singleton{
         /**
          * Singletons should not be cloneable.
         */
-        Singleton(const Singleton &obj) =delete;
+        Singleton(const Singleton &obj) = delete;
 
         //  Singletons should not be assignable.
         void operator=(const Singleton &obj) = delete;

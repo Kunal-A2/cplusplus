@@ -7,3 +7,8 @@
     - observer.cpp
     - messageApplication.cpp
 5.  Abstract Factory Design Pattern
+6.  Command Design Pattern
+7.  Adaptor Design Pattern
+8.  Fecad Design Pattern
+9.  Proxy Design Pattern
+  
